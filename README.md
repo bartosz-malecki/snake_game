@@ -17,6 +17,6 @@ or
 $ python3 main.py
 
 ## How to play?
-- Controlls: 
+Play with keyboard arrows. 
 
 When game is over, left-click mouse or X.
