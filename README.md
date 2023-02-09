@@ -19,4 +19,4 @@ $ python3 main.py
 ## How to play?
 Play with keyboard arrows. 
 
-When game is over, left-click mouse or X.
+
